@@ -1,4 +1,4 @@
-# DDIA---Review-Notes
+# DDIA-Review-Notes
 Quick chapter-wise summary of Designing Data Intensive Applications
 
 Chapter 3: [Storage and retrieval](https://github.com/het-t/DDIA---Review-Notes/blob/main/Chapter%203%20-%20Storage%20and%20retrieval.md)
